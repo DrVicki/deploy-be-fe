@@ -1,0 +1,16 @@
+{
+  "name": "deploy-be-fe",
+  "version": "1.0.0",
+  "description": "deploy a minimal modern webapp (backend and frontend) on two different platforms, in order to get the most out of them.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vicki Bealman",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
